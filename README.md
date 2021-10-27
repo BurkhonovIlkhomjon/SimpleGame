@@ -1,0 +1,2 @@
+# SimpleGame
+Found hidden Number
